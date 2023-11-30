@@ -9,22 +9,22 @@ how to use it.<br>
 
 # USAGE
 
-Add Income: This option allows you to add an income to your transaction record. You will be
+- Add Income: This option allows you to add an income to your transaction record. You will be
 prompted to enter the name of the category, followed by the amount.<br>
 
-Add Expense: Just like the Add Income option, but instead of a income it's a expense.<br>
+- Add Expense: Just like the Add Income option, but instead of a income it's a expense.<br>
 
-Add Budget & Budget spending: When you choose the Add Budget option, the amount in the budget
+- Add Budget & Budget spending: When you choose the Add Budget option, the amount in the budget
 will be deducted from the balance which is calculated as the income minus the expense. The
 amount that you insert in Budget spending option will be deducted from the amount of the budget.<br>
 
-Show All Transactions: The program will display a list of all recorded transactions.<br>
+- Show All Transactions: The program will display a list of all recorded transactions.<br>
 
-Search Transactions at a Specific Day: To find all transactions of a specific category on a 
+- Search Transactions at a Specific Day: To find all transactions of a specific category on a 
 particular date, type date in the format "dd/mm/yyyy" and it will show all the transactions 
 on that date.<br>
 
-Clear Data: clear data base on "E", "I", "B" or "All" stand for expenses, incomes, budget or all 
+- Clear Data: clear data base on "E", "I", "B" or "All" stand for expenses, incomes, budget or all 
 the data.<br>
 
-Exit: exit the program
+- Exit: exit the program
